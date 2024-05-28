@@ -1,0 +1,2 @@
+This is a tiny mod for 7 Days to Die Alpha 21. It removes quests from the traders and the starting quest to find the nearest trader. The Basic Survival quest series, treasure quests from survivor notes, and the developer test quests are untouched. The edits result in traders that do not have any available quests. This causes the game to not show the quest menu. There are no resources or graphics added.
+The mod consists entirely of xpath edits.
