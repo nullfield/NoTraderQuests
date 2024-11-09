@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <xml>
-	<Name value="NoTraderQuestsA21" />
-	<DisplayName value="No Trader Quests for A21"/>
+	<Name value="NoTraderQuests" />
+	<DisplayName value="No Trader Quests for v1.1"/>
 	<Description value="Removes trader quests and quest to find trader." />
 	<Author value="drgnkght" />
 	<Version value="1.0.0.0" />
