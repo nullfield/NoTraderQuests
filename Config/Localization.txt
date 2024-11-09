@@ -1,0 +1,11 @@
+Key,File,Type,UsedInMainMenu,NoTranslate,english
+challengeGroupTradersQuests,Challenges,Challenge Group,,,Traders
+challengeSellItemsMany,Challenges,Challenge,,,Sell many items to Traders
+challengeSellItemsManyDesc,Challenges,Challenge,,,"[DECEA3]Traders[-] are also a good place to [DECEA3]Sell[-] any [DECEA3]Items[-] you don't need, but will only accept a [DECEA3]Limited[-] amount of the same [DECEA3]Item[-]. Some items can only be [DECEA3]Sold[-] in specific amounts.\n\n[DECEA3]Items[-] with a higher [DECEA3]Quality[-] level are worth more when sold, and adding [DECEA3]Item Modifications[-] to [DECEA3]Tools[-] and [DECEA3]Weapons[-] will also increase their [DECEA3]Value[-]. [DECEA3]Items[-] with [DECEA3]Quality[-] levels are also worth more when fully [DECEA3]Repaired[-].\n\nThat's all well and good. Now see if you can empty their wallets."
+challengeSellItemsManyShort,Challenges,Challenge,,,Sell many items to any Trader.
+challengeQuestTraderToTraderJerksComplete,Challenges,Challenge,,,Open a Trade Route
+challengeQuestTraderToTraderJerksCompleteDesc,Challenges,Challenge,,,"Desperate ties call for desperate measures. Seek out a couple of traders. The traders are:\n\n[DECEA3]Trader Rekt[-]\n[DECEA3]Trader Hugh[-]\n\nMeet both the traders to complete this challenge. (No, you can't have your precious time back.)"
+challengeQuestTraderToTraderJerksCompleteShort,Challenges,Challenge,,,Open a Trade Route between two Traders who deserve each other.
+challengeQuestTraderToTraderComplete,Challenges,Challenge,,,Open a better Trade Route
+challengeQuestTraderToTraderCompleteDesc,Challenges,Challenge,,,"After loosing all respect for traders Rekt and Hugh as human beings (this won't take long), seek out other traders in the probably futile hope of finding a decent human being. The traders are:\n\n[DECEA3]Trader Jen[-]\n[DECEA3]Trader Bob[-]\n[DECEA3]Trader Joel[-]\n\nMeet all three traders to complete this challenge."
+challengeQuestTraderToTraderCompleteShort,Challenges,Challenge,,,Open a better Trade Route between Traders.

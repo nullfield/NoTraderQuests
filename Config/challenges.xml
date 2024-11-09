@@ -1,0 +1,25 @@
+<challenges>
+    <remove xpath="/challenges/challenge[@name='questComplete']"></remove>
+    <remove xpath="/challenges/challenge[@name='questTierComplete']"></remove>
+    <remove xpath="/challenges/challenge[@name='questTraderToTraderComplete']"></remove>
+    <insertBefore xpath="/challenges/challenge[@name='harvestHoney']">
+        <challenge name="sellItemsMany" title_key="challengeSellItemsMany" icon="ui_game_symbol_barter" group="Traders"
+            short_description_key="challengeSellItemsManyShort" description_key="challengeSellItemsManyDesc"
+            reward_text_key="challenge_reward_2000xp" reward_event="challenge_reward_2000">
+            <objective type="Trader" is_buy="false" count="500"/>
+        </challenge>
+        <challenge name="questTraderToTraderJerks" title_key="challengeQuestTraderToTraderJerksComplete" icon="ui_game_symbol_quest" group="Traders"
+            short_description_key="challengeQuestTraderToTraderJerksCompleteShort" description_key="challengeQuestTraderToTraderJerksCompleteDesc"
+            reward_text_key="challenge_reward_1000xp" reward_event="challenge_reward_1000">
+            <objective type="MeetTrader" trader_name="npcTraderRekt"/>
+            <objective type="MeetTrader" trader_name="npcTraderHugh"/>
+        </challenge>
+        <challenge name="questTraderToTraderComplete" title_key="challengeQuestTraderToTraderComplete" icon="ui_game_symbol_quest" group="Traders"
+            short_description_key="challengeQuestTraderToTraderCompleteShort" description_key="challengeQuestTraderToTraderCompleteDesc"
+            reward_text_key="challenge_reward_1000xp" reward_event="challenge_reward_1000">
+            <objective type="MeetTrader" trader_name="npcTraderJen"/>
+            <objective type="MeetTrader" trader_name="npcTraderBob"/>
+            <objective type="MeetTrader" trader_name="npcTraderJoel"/>
+        </challenge>
+    </insertBefore>
+</challenges>

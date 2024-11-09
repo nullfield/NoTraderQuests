@@ -1,6 +1,3 @@
 <quests>
-	<!--<remove xpath="//quest[not(starts-with(@id, 'quest_BasicSurvival') and not(starts-with(@id, 'treasure') and not(contains(@id, 'test')]"></remove>-->
-	<remove xpath="//quest[not(starts-with(@id, 'quest_BasicSurvival')) and not(starts-with(@id, 'treasure')) and not(contains(@id, 'test'))]"></remove>
-	<!--<remove xpath="//quest_list[@id='trader_quests']/*"></remove>-->
-	<remove xpath="//reward[@type='Quest' and @id='quest_whiteRiverCitizen1']"></remove>
+	<remove xpath="//quest[not(starts-with(@id, 'quest_BasicSurvival')) and not(starts-with(@id, 'treasure')) and not(contains(@id, 'test')) and not(starts-with(@id, 'challengegroup_reward')) and not(starts-with(@id, 'quest_reward_'))]"></remove>
 </quests>

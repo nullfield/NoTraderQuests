@@ -1,0 +1,3 @@
+<gameevents>
+    <remove xpath="/gameevents/action_sequence[@name='challenge_group_reward_basics']/action[@class='AddQuest']"></remove>
+</gameevents>
